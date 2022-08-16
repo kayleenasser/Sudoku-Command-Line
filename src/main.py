@@ -1,4 +1,7 @@
-from Board_Generator import *
+# Handles user input for sudoku, formats all of the printing (other than the board)
+# to enhance command line user experience 
+
+from board_generator import *
 from game import *
 import copy
 import os

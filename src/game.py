@@ -1,5 +1,8 @@
-from Board_Generator import Print_Board
-from Board_Generator import size
+# Handles game rules
+# Checks for mistakes and win
+
+from board_generator import Print_Board
+from board_generator import size
 
 
 def Placement(board, solution, num, x, y):

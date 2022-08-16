@@ -1,3 +1,6 @@
+# Generates sudoku board, ensures there is one solution
+# Generator also acts as a solver to ensure one solution
+
 import random as ran
 
 # Initialize an empty board
